@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MiMoSa00
-- 👀 I’m interested in Programming and advert
+- 👀 I’m interested in Programming and Iam an  advertiser
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on creating big project
 - 📫 How to reach me umarkrishna558@gmail.com
