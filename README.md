@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MiMoSa00
-- 👀 I’m interested in Programming and Iam an  advertiser
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on creating big project
-- 📫 How to reach me umarkrishna558@gmail.com
+- 👋 Hi, I’m @MiMi
+- 👀 I’m a Full stack developer and I am an  advertiser and public relations personnel
+- 🌱 I’m developing my skills further and networking
+- 💞️ I’m look forward to collaborating on big project
+- 📫 How to reach me oluwamomiokpaise&gmail.com
 
 <!---
 MiMoSa00/MiMoSa00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
