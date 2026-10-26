@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mimi 👋</h1>
 
 <p align="center">
-  <em>I build systems by day, break them for sport, and public relations specialist in between.</em>
+  <em>I build systems by day, break them for sport, and bring a marketer's instinct to both.</em>
 </p>
 
 <p align="center">
@@ -14,13 +14,14 @@
 
 ### About me
 
-I'm **Oluwamomi "Mimi" Okpaise** — a full-stack engineer at **OnePipe** with ~4 years of professional experience building for the web. Outside the day job, I live at the intersection of three things that don't usually show up on the same résumé:
+I'm **Oluwamomi "Mimi" Okpaise** — a full-stack engineer at **OnePipe** with ~4 years of professional experience building for the web. I studied **Mass Communication** with a specialization in **Public Relations and Advertising**, which means I think about products the way a marketer does: not just how they work, but how they're understood and whether anyone actually cares.
+
+Outside the day job, I live at the intersection of two things that don't usually show up on the same résumé:
 
 - 🧱 **Builder** — shipping SaaS products with Next.js, TypeScript, and Python
 - 🛡️ **Breaker** — on the red team of a cybersecurity program, writing offensive tooling for fun
-- ✍️ **Author** — running a nonfiction publishing operation on Amazon KDP
 
-That mix shapes how I think: build it, prove it holds up, then write about it so someone else can learn from it.
+That mix shapes how I think: build it, prove it holds up, then make sure the people it's for actually get it.
 
 ---
 
@@ -73,7 +74,7 @@ That mix shapes how I think: build it, prove it holds up, then write about it so
 ### A few things that are true about me
 
 - I believe the best way to understand a system is to try to break it
-- My ideal week has code, something exploited, and a chapter drafted
+- My Mass Comm background means I care as much about *how* a product is communicated as how it's built
 - Open to collaborating on anything at the intersection of **fintech, security, or developer tools**
 
 📬 **Reach me:** [oluwamomiokpaise@gmail.com](mailto:oluwamomiokpaise@gmail.com) · [Portfolio](https://personal-port-omega.vercel.app)
