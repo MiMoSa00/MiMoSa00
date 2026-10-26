@@ -29,9 +29,7 @@ That mix shapes how I think: build it, prove it holds up, then make sure the peo
 
 🚀 **[Aether OS](https://github.com/MiMoSa00/aether-os)** — an all-in-one workspace for small agencies: client management, task boards, billing. Next.js + TypeScript + Supabase + Stripe.
 
-🔐 **[HashCracker](https://github.com/MiMoSa00/hashcracker)** — a Python CLI password-cracking tool. My cybersecurity portfolio piece.
-
-🛠️ **[cracksuite](https://github.com/MiMoSa00/cracksuite)** — a growing toolkit of security utilities in TypeScript.
+🔐 **[cracksuite](https://github.com/MiMoSa00/cracksuite)** — a growing cybersecurity toolkit that bundles **HashCracker** (my Python CLI password-cracking tool) alongside other offensive security utilities. TypeScript + Python.
 
 🏘️ **[convenient-rental](https://github.com/MiMoSa00/convenient-rental)** — a Next.js app for finding roommates and listing properties.
 
@@ -43,6 +41,10 @@ That mix shapes how I think: build it, prove it holds up, then make sure the peo
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass_(SCSS)-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend & Data**
@@ -55,6 +57,7 @@ That mix shapes how I think: build it, prove it holds up, then make sure the peo
 **Security & Scripting**
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Payments & Infra**
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
@@ -66,7 +69,7 @@ That mix shapes how I think: build it, prove it holds up, then make sure the peo
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MiMoSa00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiMoSa00&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=MiMoSa00&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
