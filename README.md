@@ -65,15 +65,6 @@ That mix shapes how I think: build it, prove it holds up, then make sure the peo
 
 ---
 
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MiMoSa00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=MiMoSa00&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
-
 ### A few things that are true about me
 
 - I believe the best way to understand a system is to try to break it
